@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Imgur](https://imgur.com/R2oFpbp.gif)
+![pre_work](https://github.com/Emekaony/Tip-Calculator/blob/main/iOS_pre_work.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
