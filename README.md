@@ -20,6 +20,8 @@ Here's a walkthrough of implemented user stories:
 
 ![pre_work](https://github.com/Emekaony/Tip-Calculator/blob/main/iOS_pre_work.gif)
 
+Credit to: https://stackoverflow.com/a/49984301/14096942
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
